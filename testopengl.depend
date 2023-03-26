@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600507164 source:c:\users\test\myfiles\code\codeprojects\testopengl\glfunc.c
+	<windows.h>
+	<gl/gl.h>
+
+1578053866 source:c:\users\test\myfiles\code\codeprojects\testopengl\main.c
+	<windows.h>
+	"glfunc.h"
+
+1578053067 c:\users\test\myfiles\code\codeprojects\testopengl\glfunc.h
+
